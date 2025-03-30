@@ -1,0 +1,80 @@
+.footer-table-sec {
+    /* background-color: #1B1464; */
+    background-image: url('./images/backgrounds/10193.jpg');
+    color: #343a40;
+    margin: 0;
+    padding: 20px;
+    width: 100%;
+}
+
+.footer-table-sec tbody {
+    background-color: #a1a1a134;
+    text-align: center;
+}
+
+.footer-table-sec h4 {
+    color: #D980FA;
+}
+
+.footer-ctx {
+    padding: 10px;
+}
+
+.footer-ctx form{
+    background-color: #a1a1a163;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.footer-ctx input {
+    padding: 15x 20px;
+    font-size: 18px;
+    width: 100% !important;
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.footer-ctx textarea {
+    padding: 12x 20px;
+    font-size: 18px;
+    width: 100% !important;
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.footer-ctx button {
+    padding: 10px 20px;
+    border: none;
+    margin: 10px auto;
+    border-radius: 50px;
+}
+
+.footer-ctx button:hover{
+    background-color: #1B1464;
+    cursor: pointer;
+    color: #FDA7DF;
+}
+
+.footer-ctx ul li {
+    list-style: none;
+    /* float: left; */
+    display: inline;
+    padding: 10px 30px;
+    text-align: center;
+
+}
+
+.footer-ctx ul li a {
+    text-decoration: none;
+    color: #343a40;
+
+}
+
+.footer-ctx ul li:hover {
+    cursor: pointer;
+    /* padding: 10px; */
+
+    background-color: #a1a1a163;
+}
